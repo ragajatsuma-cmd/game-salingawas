@@ -1,0 +1,21 @@
+{
+  "name": "Pengawas Partisipatif",
+  "short_name": "Pengawas",
+  "description": "Simulasi pembelajaran pengawasan Pemilu dan Pilkada.",
+  "start_url": "/play",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff8e8",
+  "theme_color": "#214b35",
+  "lang": "id-ID",
+  "categories": ["education", "games"],
+  "icons": [
+    {
+      "src": "/icons/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
